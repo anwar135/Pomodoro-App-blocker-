@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pomodoro</string>
+    <string name="start">Start</string>
+    <string name="profile">Profile</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="textAppName">App Name</string>
+    <string name="lock">Lock</string>
+    <string name="todo">TODO</string>
+    <string name="_20_min">20 min</string>
+</resources>
